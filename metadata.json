@@ -1,0 +1,15 @@
+{
+  "name": "amgrice-ssh",
+  "version": "0.1.0",
+  "author": "Austin M. Grice <tenaciousamg@yahoo.com>",
+  "summary": "This module will manage ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/amgrice/puppet-ssh",
+  "project_page": "https://github.com/amgrice/puppet-ssh",
+  "issues_url": "https://github.com/amgrice/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
